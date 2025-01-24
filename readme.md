@@ -32,9 +32,9 @@ When slicing, we recommend using an infill of at least **20%** to maintain suffi
    - HDMI to micro HDMI Cable  
 
 3. **Any 12V RC LiPo Batteries**  
-   - 3× 12V to 5V5A Cuck Convertor  
-   - 2× 5V5A USB Type-C Outlet  
-   - 1× 5V3A+ USB Type-A Outlet  
+   - 3 × 12V to 5V5A Cuck Convertor  
+   - 2 × 5V5A USB Type-C Outlet  
+   - 1 × 5V3A+ USB Type-A Outlet  
    - 14 AGW+ Wires  
 
 4. **608Z Bearing**
