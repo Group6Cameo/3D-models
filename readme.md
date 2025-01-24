@@ -2,9 +2,10 @@
 
 All parts for both the first and final Cameo prototypes can be downloaded here. 
 
-## 3D Printing the Base
+## 3D Printing
 To print Cameo’s base, ensure your 3D printer has a minimum build volume of **256 × 256 mm**.  
 When slicing, it is recommended to use an infill of at least **20%** to maintain sufficient strength.
+For some models with unusual (very large) sizes, simply scale them to **10%** for printing in slicing or CAD.
 
 ## Assembly Instructions
 - Follow the structure in the model files to assemble all components correctly.  
