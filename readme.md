@@ -12,7 +12,7 @@ All parts for both the first and final Cameo prototypes can be downloaded here.
 - When installing the servo motors, use a controller to adjust their positions beforehand.  
 - It is recommended to set each servo at **0°** or **180°** (the minimum or maximum position) for accurate alignment before final installation.
 
-## Bill of Materials
+## Hardware List
 
 1. **Raspberry Pi 5 (8GB+)**  
    1. **Adafruit 16-Channel PWM Servo HAT for Raspberry Pi**  
